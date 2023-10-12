@@ -1,0 +1,13 @@
+{
+  "auth": {
+    "common": {
+      "signIn": "Sign In",
+      "signUp": "Sign Up",
+      "submit": "Submit"
+    },
+    "completeSignup": {
+      "title": "A few details to personalize your experience",
+      "note": " Enter your details, let's gets started."
+    }
+  }
+}
